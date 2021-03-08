@@ -4,8 +4,8 @@ Computer science major at [Tecnológico de Monterrey](https://tec.mx/en) in Mexi
 
 ### Stats
 
-[![Héctor's GitHub stats](https://github-readme-stats.vercel.app/api?username=hreyesm&hide=issues&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Héctor's GitHub stats](https://github-readme-stats.vercel.app/api?username=hreyesm&hide=issues&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hreyesm&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hreyesm&layout=compact&langs_count=6&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
