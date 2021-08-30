@@ -1,6 +1,8 @@
 ### About
 
-Computer science major at [Tecnológico de Monterrey](https://tec.mx/en) in Mexico City, Mexico. Incoming software engineering intern at [Microsoft](https://www.microsoft.com/); former intern at [PwC](https://www.pwc.com/) and [Omnitracs](https://www.omnitracs.com/). Interested in full-stack development, cloud computing, and machine learning, I firmly believe in the power of technology to improve people's lives.
+Full-stack engineer specialized in modern frontend development. A former intern at Microsoft, PwC, and Omnitracs, I have experience building production-level software using React, TypeScript, and GraphQL, among many other technologies.
+
+Currently in my last year of university at Tecnológico de Monterrey in Mexico City, Mexico.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hreyesm&theme=nord)](https://hectorreyes.me)
 
