@@ -4,6 +4,4 @@ Full-stack engineer specialized in modern frontend development. A former intern 
 
 Currently in my last year of university at Tecnológico de Monterrey in Mexico City, Mexico.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hreyesm&theme=nord)](https://hectorreyes.me)
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hreyesm&hide=issues&count_private=true&show_icons=true&theme=nord)](https://hectorreyes.me)
