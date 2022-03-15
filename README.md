@@ -4,4 +4,4 @@ Full-stack engineer specialized in modern frontend development. A former intern 
 
 Currently in my last semester of university at ITESM in Santa Fe, Mexico City, Mexico.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hreyesm&hide=issues&count_private=true&show_icons=true&theme=nord)](https://hectorreyes.me)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hreyesm&hide=issues&count_private=true&show_icons=true&theme=nord)](https://reyesmanrique.com)
